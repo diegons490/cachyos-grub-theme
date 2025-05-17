@@ -6,8 +6,8 @@
 
 
 #### Install theme:
-```shell
-$ sudo bash setup.sh
+```bash
+sudo bash setup.sh
 ```
 
 # Screenshot
